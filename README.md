@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chaitanya-Dhayade&label=Profile+Views&color=36D1DC&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Chaitanya-Dhayade?label=Followers&color=2c5364&style=flat-square" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-36D1DC?style=flat-square" alt="open to collaboration" />
 
