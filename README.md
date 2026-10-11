@@ -15,7 +15,7 @@
 ```python
 class Chaitanya:
     location  = "India 🇮🇳"
-    works_at  = "Affor Technologies"
+    works_at  = "Affor Technologies (founding team member)"
     background = ["Data Science", "Machine Learning", "Python"]
     superpower = "Shipping real products fast by pairing product thinking with AI"
     mindset   = "Learn in public. Build first, polish after."
@@ -34,6 +34,17 @@ class Chaitanya:
 | 📱 **Mobile apps** | Cross-platform apps from idea to working build |
 | 🧾 **CRM & ERP systems** | Workflows that run real business operations |
 | 🤖 **AI-assisted development** | Using LLMs to design, build and debug at speed |
+
+### 🚀 Life at Affor Technologies
+
+Founding team member at an early-stage startup. The title is small, the learning curve is not.
+
+- 🧑‍🤝‍🧑 **Clients:** translating "we need something that just works" into real requirements, setting expectations and delivering what I promised
+- 🏗️ **Building:** CRMs, ERPs, web and mobile products, with AI helping me move faster and me owning the result
+- 🔥 **Startup reality:** wearing many hats, shifting priorities, small team, big responsibility
+- 📚 **Learning:** every project teaches me something new about product, people or code, and I write down what I learn
+
+> *"Early-stage means nobody hands you the playbook. You write it as you go."*
 
 ### 🧰 Toolbox
 
