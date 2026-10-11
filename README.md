@@ -6,9 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36D1DC&center=true&vCenter=true&width=640&lines=I+turn+business+problems+into+working+software;Websites+%7C+Mobile+Apps+%7C+CRM+%7C+ERP;Python+%2B+ML+foundations.+AI-powered+building.;Currently+building+at+Affor+Technologies" alt="Typing intro" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Chaitanya-Dhayade&label=Profile+Views&color=36D1DC&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Chaitanya-Dhayade?label=Followers&color=2c5364&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-36D1DC?style=flat-square" alt="open to collaboration" />
+
 </div>
 
 ---
+
+> **I may not write every line, but I own every product I ship.**
 
 ### `~/whoami`
 
@@ -65,7 +73,7 @@ Founding team member at an early-stage startup. The title is small, the learning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dhayade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dhayade&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Dhayade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top languages" />
 
 </div>
