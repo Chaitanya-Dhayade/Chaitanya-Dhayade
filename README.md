@@ -61,9 +61,8 @@ class Chaitanya:
 
 ### 📬 Let's connect
 
-<!-- TODO: replace the links below with your real ones -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-consiousx017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:consiousx017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dhayade/)
+[![Email](https://img.shields.io/badge/Email-chaitanyadhayade007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyadhayade007@gmail.com)
 
 <div align="center">
 
