@@ -65,7 +65,7 @@ Founding team member at an early-stage startup. The title is small, the learning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dhayade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dhayade&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Dhayade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top languages" />
 
 </div>
