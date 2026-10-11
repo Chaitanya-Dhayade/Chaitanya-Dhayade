@@ -77,6 +77,15 @@ Founding team member at an early-stage startup. The title is small, the learning
 
 </div>
 
+### 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanya-Dhayade/Chaitanya-Dhayade/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Chaitanya-Dhayade/Chaitanya-Dhayade/output/github-snake.svg" />
+</picture>
+</div>
+
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dhayade/)
